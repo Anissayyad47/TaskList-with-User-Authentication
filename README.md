@@ -6,3 +6,5 @@
 
 3) Task List interface
    ![React App and 5 more pages - Personal - Microsoft​ Edge 31-12-2024 20_28_22](https://github.com/user-attachments/assets/8dd2aa05-05c4-4e68-a3fd-9b41a8424389)
+
+this is simple project
