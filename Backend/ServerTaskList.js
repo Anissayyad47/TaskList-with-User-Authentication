@@ -10,8 +10,8 @@ app.use(cors());
 app.use(bodyParser.json());
 
 const pool = new Pool({
-  user: 'AwsPostgre',
-  password: 'Anis352003',
+  user: 'username',
+  password: 'your password',
   host: 'postgre-database-1.clgao60q03ky.ap-southeast-2.rds.amazonaws.com',
   database: 'user_authentication',
   port: 5432,
